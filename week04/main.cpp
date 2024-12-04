@@ -4,7 +4,6 @@
 
 // =====
 // Výpis
-// =====
 
 void vypis() {
     std::cout << "Hello world!" << std::endl;
